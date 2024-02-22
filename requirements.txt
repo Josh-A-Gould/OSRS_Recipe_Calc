@@ -1,0 +1,5 @@
+discord
+discord.py
+numpy
+pandas
+requests
